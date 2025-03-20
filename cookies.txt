@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.jbhifi.com.au	TRUE	/	FALSE	1999999999	localization	AU
+jbhifi.com.au	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22NPP1%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%22F802A648-c03f-4866-bd2b-61061d387bb5%22%7D
+jbhifi.com.au	TRUE	/	FALSE	1999999999	_landing_page	%2F
+www.jbhifi.com.au	TRUE	/	FALSE	1999999999	keep_alive	b6cb2a65-f299-4224-80b4-22e9cc5de0f3
+www.jbhifi.com.au	TRUE	/	FALSE	1999999999	cart_currency	AUD
+jbhifi.com.au	TRUE	/	FALSE	1999999999	_shopify_y	9EF0FF3F-ac23-4EEE-8a97-25d80fb6a87d
+www.jbhifi.com.au	TRUE	/	FALSE	1999999999	SameSite	Lax
+jbhifi.com.au	TRUE	/	FALSE	1999999999	_shopify_s	47725407-76b1-42CB-a2c0-944ea9a94290
+www.jbhifi.com.au	TRUE	/	FALSE	1999999999	SameSite	Lax
+

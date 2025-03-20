@@ -1,0 +1,20 @@
+{
+  "short_name": "JB Hi-Fi",
+  "name": "JBHi-Fi - Australia's Largest Home Entertainment Retailer",
+  "icons": [
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0030/3235/0789/files/favicon.png?v=1614763566&width=192&height=192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0030/3235/0789/files/favicon.png?v=1614763566&width=512&height=512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFEC0F",
+  "display": "browser",
+  "theme_color": "#FFEC0F"
+}
